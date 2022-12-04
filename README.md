@@ -1,2 +1,2 @@
-# roguelike-game
+# Roguelike Game
 A simple roguelike game.
